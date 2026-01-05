@@ -1,4 +1,3 @@
-Dưới đây là bản dịch tiếng Việt cho file `README.md` của dự án, giữ nguyên định dạng Markdown để bạn có thể sao chép và sử dụng ngay:
 
 ***
 
